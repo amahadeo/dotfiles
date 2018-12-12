@@ -73,7 +73,7 @@ colorscheme molokai
 "      Mappings      "
 """"""""""""""""""""""
 
-" Set leader shortcut to a comma ','. By default it's the backslash
+" Set leader shortcut to a <SPACE>. By default it's the backslash
 let mapleader = "\<Space>"
 
 " Jump to next error with Ctrl-n and previous error with Ctrl-m. Close the
