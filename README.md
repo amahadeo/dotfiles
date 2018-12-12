@@ -1,2 +1,5 @@
 # dotfiles
-my vimrc
+
+```
+ln -s ~/dotfiles/vimrc ~/.vimrc 
+```
