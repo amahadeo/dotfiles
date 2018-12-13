@@ -11,6 +11,7 @@ Plug 'airblade/vim-gitgutter'
 Plug 'scrooloose/nerdtree'
 Plug 'Xuyuanp/nerdtree-git-plugin'
 Plug 'itchyny/lightline.vim'
+Plug 'suan/vim-instant-markdown'
 call plug#end()
 
 """"""""""""""""""""""
