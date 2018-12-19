@@ -9,4 +9,9 @@ npm -g install instant-markdown-d
 In Vim...
 :PlugInstall
 :GoInstallBinaries
+
+Back In Terminal for YCM...
+sudo apt install build-essential cmake python3-dev
+cd ~/.vim/plugged/youcompleteme
+python3 install.py --go-completer --ts-completer
 ```
