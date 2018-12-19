@@ -12,6 +12,7 @@ Plug 'scrooloose/nerdtree'
 Plug 'Xuyuanp/nerdtree-git-plugin'
 Plug 'itchyny/lightline.vim'
 Plug 'suan/vim-instant-markdown'
+Plug 'valloric/youcompleteme'
 call plug#end()
 
 """"""""""""""""""""""
