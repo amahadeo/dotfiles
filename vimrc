@@ -14,6 +14,7 @@ Plug 'itchyny/lightline.vim'
 Plug 'suan/vim-instant-markdown'
 Plug 'valloric/youcompleteme'
 Plug 'ervandew/supertab'
+Plug 'jiangmiao/auto-pairs'
 call plug#end()
 
 """"""""""""""""""""""
